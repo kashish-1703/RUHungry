@@ -43,7 +43,7 @@ Github: [@kashish-1703] (https://github.com/kashish-1703)
 
 ## License
 
-This project is licensed for educational and personal use only
+This project is licensed for educational and personal use only.
 It may not be distributed, submitted, or published as part of another academic course.
 
 > Portions of the code were provided by the course staff for CS112 at Rutgers University.
