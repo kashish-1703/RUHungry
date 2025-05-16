@@ -33,4 +33,17 @@ java -cp bin restaurant.Menu menu.in stock.in order1.in donate1.in restock1.in t
 This project was completed as part of the CS112: Data Structures course at Rutgers University.
 Some classes (such as 'Dish.java', 'Ingredient.java', 'MenuNode.java', 'StockNode.java', 'TransactionNode.java', 'Party.java', 'Queue.java', 'StdIn.java', and 'StdOut.java') were provided as part of the assignment framework.
 
-All simulation logic, program flow, data structure integration, and command - line functionality in 'RUHungry.java' and 'Menu.java' were implemented independently by me.
+All simulation logic, program flow, data structure integration, and command - line functionality in 'RUHungry.java' (some parts were already given, mentioned in the code comments) and 'Menu.java' were implemented independently by me.
+
+## Author
+
+Kashish Patel
+Computer Science and ITI Major, Rutgers University
+Github: [@kashish-1703] (https://github.com/kashish-1703)
+
+## License
+
+This project is licensed for educational and personal use only
+It may not be distributed, submitted, or published as part of another academic course.
+
+> Portions of the code were provided by the course staff for CS112 at Rutgers University.
