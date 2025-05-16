@@ -23,3 +23,14 @@ This project focuses on demonstrating fundamental data structures such as:
 
 ```bash
 javac -d bin src/restaurant/*.java
+```
+
+### Step 2: Run the Program
+java -cp bin restaurant.Menu menu.in stock.in order1.in donate1.in restock1.in transaction1.in
+
+## Acknowledgements
+
+This project was completed as part of the CS112: Data Structures course at Rutgers University.
+Some classes (such as 'Dish.java', 'Ingredient.java', 'MenuNode.java', 'StockNode.java', 'TransactionNode.java', 'Party.java', 'Queue.java', 'StdIn.java', and 'StdOut.java') were provided as part of the assignment framework.
+
+All simulation logic, program flow, data structure integration, and command - line functionality in 'RUHungry.java' and 'Menu.java' were implemented independently by me.
